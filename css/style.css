@@ -1,0 +1,17 @@
+table,td {
+	border: 1px solid black;
+}
+.border{
+    border: 1px solid black;
+}
+.text{
+    flex-direction: row;
+}
+.btn{
+    background-color: white;
+    border: 2px solid black;
+    padding: 10px 5px;
+    -webkit-box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow:    2px 2px 0px 0px rgba(0, 0, 0, 0.75);
+    box-shadow:         2px 2px 0px 0px rgba(0, 0, 0, 0.75);
+}
